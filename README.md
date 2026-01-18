@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently working on skills needed for cybersecurity. <br>Currently learning python(intermediate), java(beginner) and hope to learn C++ amongst others!<br>
+Currently on the grind for cybersecurity. <br>Currently learning python(intermediate), java(beginner) and hope to learn C++ amongst others!<br>
 
 
 ## 🌐 Socials:
